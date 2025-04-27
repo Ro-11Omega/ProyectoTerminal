@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\formverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\formverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\formfingerprintscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formfingerprintscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\systembiometric\\formfingerprintscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formfingerprintscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\formbiometrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formbiometrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\formbiometrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formbiometrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\systembiometric\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|c:\\users\\hsaod\\downloads\\pt\\blockchain\\systembiometric\\systembiometric\\systembiometric\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F674C35-63A4-480D-956D-5F80C0D20E2D}|SystemBiometric\\SystemBiometric.csproj|solutionrelative:systembiometric\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormRegister.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormRegister.cs",
+              "RelativeToolTip": "SystemBiometric\\FormRegister.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA4wFoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:23:03.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegister.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormRegister.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormRegister.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormRegister.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemBiometric\\FormRegister.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:23:02.101Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormVerify.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormVerify.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormVerify.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormVerify.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemBiometric\\FormVerify.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:17:44.058Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormVerify.cs",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormVerify.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormVerify.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormVerify.cs",
+              "RelativeToolTip": "SystemBiometric\\FormVerify.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:17:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FileManager.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FileManager.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FileManager.cs",
+              "RelativeToolTip": "SystemBiometric\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:12:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormFingerPrintScanner.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormFingerPrintScanner.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormFingerPrintScanner.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormFingerPrintScanner.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemBiometric\\FormFingerPrintScanner.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:02:44.618Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormBiometrico.cs",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormBiometrico.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormBiometrico.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormBiometrico.cs",
+              "RelativeToolTip": "SystemBiometric\\FormBiometrico.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:22:19.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormFingerPrintScanner.cs",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormFingerPrintScanner.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormFingerPrintScanner.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormFingerPrintScanner.cs",
+              "RelativeToolTip": "SystemBiometric\\FormFingerPrintScanner.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:21:16.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBiometrico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormBiometrico.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormBiometrico.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormBiometrico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemBiometric\\FormBiometrico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:22:17.901Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\FormLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemBiometric\\FormLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:02:54.548Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\Main.cs",
+              "RelativeDocumentMoniker": "SystemBiometric\\Main.cs",
+              "ToolTip": "C:\\Users\\hsaod\\Downloads\\PT\\Blockchain\\SystemBiometric\\SystemBiometric\\SystemBiometric\\Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemBiometric\\Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:03:31.082Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

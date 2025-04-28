@@ -37,7 +37,7 @@ Generación de archivos:
 `Block.py`             | Define la estructura de un bloque.
 `Transaction.py`       | Modelo de una transacción.
 `SistemaBiometrico.py` | Funciones de cifrado AES y hashing SHA-256.
-`File_data.py`         | Carga y procesamiento de los archivos `.txt`.
+`Conexion.py`          | Conecta y procesa las consultas a la base de datos.
 `node.py`              | Script principal para levantar un nodo.
 `routes.py`            | Define todas las rutas HTTP del servidor.
 `SystemBiometric/`     | Sistema biométrico en Windows Forms C#

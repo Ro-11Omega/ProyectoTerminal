@@ -1,9 +1,3 @@
-
-#Rutas relativas para su uso en Windows
-#fingerPrintFile = "SystemBiometric\\SystemBiometric\\SystemBiometric\\bin\\Debug\\Matricula.txt"
-#matriculaFile = "SystemBiometric\\SystemBiometric\\SystemBiometric\\bin\\Debug\\Matricula.txt"
-
-#Rutas relativas para su uso en Linux
 fingerPrintFile = "SystemBiometric/SystemBiometric/SystemBiometric/bin/Debug/fingerPrint.txt"
 matriculaFile = "SystemBiometric/SystemBiometric/SystemBiometric/bin/Debug/Matricula.txt"
 

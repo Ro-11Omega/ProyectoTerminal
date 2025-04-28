@@ -41,7 +41,6 @@ Generación de archivos:
 `node.py`              | Script principal para levantar un nodo.
 `routes.py`            | Define todas las rutas HTTP del servidor.
 `SystemBiometric/`     | Sistema biométrico en Windows Forms C#
-`venv/`                | Entorno virtual de Python.
 `__pycache__/`         | Archivos generados automáticamente por Python.
 `README.md`            | Instructivo.
 

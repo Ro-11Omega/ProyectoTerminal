@@ -14,3 +14,4 @@ class Block:
             'hash_previo': self.hash_previo,
             'transactions': self.transactions
         }
+
